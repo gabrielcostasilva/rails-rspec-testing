@@ -3,9 +3,7 @@
 <ul>
     <% @articles.each do |an_article| %>
     <li>
-        <a href="/articles/<%= an_article.id %>">
-            <%= an_article.title %>
-        </a>
+        <%= link_to an_article.title, an_article %>
     </li>
     <% end %>
 </ul>

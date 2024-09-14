@@ -21,3 +21,9 @@ Next, update the database by running **in the project folder**: `bin/rails db:mi
 Finally, start the server with: `bin/rails server`
 
 > All these commands must be run from your console in the project folder.
+
+## Project Branches
+
+As a reference project, it underpins extensions, as:
+
+- [Adding authentication & authorisation with Devise](https://github.com/gabrielcostasilva/rails-getting-started/tree/auth-devise)

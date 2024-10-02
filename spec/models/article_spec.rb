@@ -6,6 +6,11 @@ RSpec.describe Article, type: :model do
     it 'is valid with valid attributes' do
       expect(article).to be_valid
     end
+
+    it 'is not valid without a title' do
+      article.title = nil
+      expect(article).to_not be_valid
+    end
   end
 end
 

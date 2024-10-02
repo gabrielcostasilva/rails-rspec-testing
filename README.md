@@ -7,6 +7,6 @@ This project uses my [getting started project](https://github.com/gabrielcostasi
 To getting started, one can follow [rspec-rails instructions](https://github.com/rspec/rspec-rails). These instructions will help to setup the project and to create a very first test.
 
 ## Additional References
-[RSpec Rails doc](https://rspec.info/features/7-0/rspec-rails/)
-[RSpec official website](http://rspec.info)
-[References for system testing](https://github.com/teamcapybara/capybara?tab=readme-ov-file)
+- [RSpec Rails doc](https://rspec.info/features/7-0/rspec-rails/)
+- [RSpec official website](http://rspec.info)
+- [References for system testing](https://github.com/teamcapybara/capybara?tab=readme-ov-file)

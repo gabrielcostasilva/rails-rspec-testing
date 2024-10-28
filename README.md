@@ -9,6 +9,7 @@ To getting started, one can follow [rspec-rails instructions](https://github.com
 In addition, you may want to mock objects, which we did in a [later commit](https://github.com/gabrielcostasilva/rails-rspec-testing/commit/4dcfeed6ec54b85c01ab1edf64a8396698b9731e).
 
 ## Additional References
+> Great getting started explanations in two parts: [Behaviour Driven Development in Ruby with RSpec](https://blog.appsignal.com/2024/01/24/behaviour-driven-development-in-ruby-with-rspec.html)
 - [RSpec Rails doc](https://rspec.info/features/7-0/rspec-rails/)
 - [RSpec official website](http://rspec.info)
 - [References for system testing](https://github.com/teamcapybara/capybara?tab=readme-ov-file)
